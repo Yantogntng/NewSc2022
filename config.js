@@ -44,7 +44,7 @@ global.ppulsa2 = '-'
 global.psaweria = 'https://saweria.co/raraharsita2'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '5717497745'
+global.nomorbot = '79999256489'
 global.nomorown = '6283144670363'
 global.namebot = ' RENZ-XD'
 global.nameown = 'RENZ-STORE'
