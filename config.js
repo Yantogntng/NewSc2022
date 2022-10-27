@@ -27,10 +27,10 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/drak_ipul123'
-global.syt = 'https://youtu.be/pwLZpdfO8AU'
-global.sgh = 'https://github.com/SaipulAnuar'
-global.sgc = 'https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL'
+global.sig = '-'
+global.syt = '-'
+global.sgh = 'https://github.com/RenzGntng'
+global.sgc = 'https://chat.whatsapp.com/Kw4lxpKNeJL6HSaeQxf7gX'
 global.swa = 'wa.me/6283144670363'
 global.swb = 'https:6283144670363//'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
@@ -39,12 +39,12 @@ global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 global.pdana = '085717497745'
 global.povo = '-'
 global.pgopay = '083144670363'
-global.ppulsa = '-'
-global.ppulsa2 = '-'
+global.ppulsa = '083144670363'
+global.ppulsa2 = '085717497745'
 global.psaweria = 'https://saweria.co/raraharsita2'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '79999256489'
+global.nomorbot = '16159658641'
 global.nomorown = '6283144670363'
 global.namebot = ' RENZ-XD'
 global.nameown = 'RENZ-STORE'
@@ -96,7 +96,7 @@ global.APIKeys = { // APIKey Here
 }
 
 /*============== WATERMARK ==============*/
-global.wm = 'Yuki Adisty | By ᴹᴿ᭄ King Of Bear ×፝֟͜×' //Main Watermark
+global.wm = 'RENZ XD | By ᴹᴿ᭄ King Of Bear ×፝֟͜×' //Main Watermark
 global.wm2 = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×'
 global.wm3 = 'Yuki Adistyラ | By ᴹᴿ᭄ King Of Bear ×፝֟͜×'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
