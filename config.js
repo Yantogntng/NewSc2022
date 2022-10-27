@@ -44,8 +44,8 @@ global.ppulsa2 = '6287778405247'
 global.psaweria = 'https://saweria.co/raraharsita2'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '79999256489'
-global.nomorown = '6287778405247'
+global.nomorbot = '62881024184163'
+global.nomorown = '62881024184163'
 global.namebot = ' ReiiBot'
 global.nameown = 'Reii'
 
