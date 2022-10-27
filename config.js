@@ -31,28 +31,28 @@ global.sig = '-'
 global.syt = '-'
 global.sgh = 'https://github.com/RenzGntng'
 global.sgc = 'https://chat.whatsapp.com/Kw4lxpKNeJL6HSaeQxf7gX'
-global.swa = 'wa.me/6283144670363'
-global.swb = 'https:6283144670363//'
+global.swa = 'wa.me/6287778405247'
+global.swb = 'https:6287778405247//'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '085717497745'
+global.pdana = '6287778405247'
 global.povo = '-'
-global.pgopay = '083144670363'
-global.ppulsa = '083144670363'
-global.ppulsa2 = '085717497745'
+global.pgopay = '6287778405247'
+global.ppulsa = '6287778405247'
+global.ppulsa2 = '6287778405247'
 global.psaweria = 'https://saweria.co/raraharsita2'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '16159658641'
-global.nomorown = '6283144670363'
-global.namebot = ' RENZ-XD'
-global.nameown = 'RENZ-STORE'
+global.nomorbot = '79999256489'
+global.nomorown = '6287778405247'
+global.namebot = ' ReiiBot'
+global.nameown = 'Reii'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283144670363', 'RENZ STORE', 'true']
+  ['6287778405247', 'Reii', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [6283144670363] // Want some help?
